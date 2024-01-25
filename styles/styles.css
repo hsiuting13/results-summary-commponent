@@ -124,6 +124,7 @@ main .first-box h1 {
 }
 .evaluation p {
   color: var(--Light-Blue);
+  text-align: center;
 }
 
 .second-box {
